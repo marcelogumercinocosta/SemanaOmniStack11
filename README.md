@@ -21,7 +21,7 @@ Uma aplicação onde as ONGs podem armazenar e espalhar informações sobre cada
 - [React Native](https://reactnative.dev/)
 
 ### 🌐 Backend
-Tecnologias usadas no [backend](https://github.com/marcelogumercinocosta/SemanaOmniStack11/tree/master/backend):
+Tecnologias do [backend](https://github.com/marcelogumercinocosta/SemanaOmniStack11/tree/master/backend):
   - Express;
   - Nodemon;
   - Knex com SQLite;
@@ -36,7 +36,7 @@ $ npm start
 ```
 
 ### 💻 Frontend
-Tecnologias usadas no [frontend](https://github.com/marcelogumercinocosta/SemanaOmniStack11/tree/master/frontend):
+Tecnologias do [frontend](https://github.com/marcelogumercinocosta/SemanaOmniStack11/tree/master/frontend):
 - React;
 - Axios.
 
@@ -48,7 +48,7 @@ $ yarn start
 ```
 
 ### 📱 Mobile
-Tecnologias usadas no [mobile](https://github.com/marcelogumercinocosta/SemanaOmniStack11/tree/master/mobile):
+Tecnologias do [mobile](https://github.com/marcelogumercinocosta/SemanaOmniStack11/tree/master/mobile):
 - React Native;
 - Expo;
 - Axios.
